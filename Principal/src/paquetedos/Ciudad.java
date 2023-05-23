@@ -28,7 +28,7 @@ public class Ciudad {
     }
     
     public String obtenerProvincia(){
-        return nombreCiudad;
+        return provincia;
     }
     
     
